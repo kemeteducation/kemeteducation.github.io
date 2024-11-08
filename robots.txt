@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://kemeteducation.com/sitemap/sitemap_index.kemeteducation.gz
+Sitemap: https://kemeteducation.com/rfJ/sitemap_index.kemeteducation.gz
+Sitemap: https://kemeteducation.com/vpC/sitemap_index.kemeteducation.gz
+Sitemap: https://kemeteducation.com/QvZ/sitemap_index.kemeteducation.gz
+Sitemap: https://kemeteducation.com/TVC/sitemap_index.kemeteducation.gz
+Sitemap: https://kemeteducation.com/DxL/sitemap_index.kemeteducation.gz
