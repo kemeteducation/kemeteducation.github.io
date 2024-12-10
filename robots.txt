@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: 
+Sitemap: https://qodijebo.github.io/Irp/sitemap_index.txt.gz
